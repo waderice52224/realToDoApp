@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To do List</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="toDoList.js"></script>
+</head>
+<body>
+<div class="wrapper">
+    <div class="nav">
+        <div class="nav-left">
+            <div class="nav-items">
+                <img src="todolistlogo.png" height="90" width="auto"/>
+            </div>
+        </div>
+        <div class="nav-right">
+        <div class="nav-items">
+            Sign Up
+        </div>
+        <div class="nav-items">
+            Sign In
+        </div>
+        </div>
+
+    </div>
+    <div class="bottom-sec">
+        <div class="list">
+            <form>
+                <input type="text" id="addinput">
+               <div id="add-div" class="add-div" onclick="addItem()">button</div>
+            </form>
+            <div class="todocontainer"></div>
+
+        </div>
+        <div class="notes-sec">
+            <ul contenteditable="true"></ul>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
+<!--<ul contenteditable="true">-->
+    <!--<li></li>-->
+<!--</ul>-->

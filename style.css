@@ -1,0 +1,63 @@
+.wrapper{
+
+}
+.nav{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-left{
+
+}
+.nav-right{
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.nav-items{
+    margin: 10px;
+}
+.bottom-sec{
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    width: 30%;
+    background-color: aqua;
+    margin-left: 5px;
+}
+.body{
+    width: 70%;
+    background-color: yellow;
+}
+.list-titles {
+    color: #5555cc;
+    /*width: 30%;*/
+    /*background-color: deeppink;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 30px;
+    margin: 5px;
+    -webkit-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.56);
+    -moz-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.56);
+    box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.56);
+}
+.list-titles-button{
+    height: 50px;
+    width: 50px;
+    background-image: url(trash.png);
+    background-position:center;
+    background-size: contain;
+    border: 0;
+}
+.notes-sec{
+    background-color: #5555cc;
+    width: 70%;
+}
+.ul-items{
+    background-color: pink;
+}
