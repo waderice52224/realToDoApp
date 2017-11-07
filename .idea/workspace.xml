@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a978be4-14cc-4093-a694-498caf0cc417" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/lib/jasmine-2.8.0/jasmine_favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todolistlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/toDoList.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/MIT.LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/SpecRunner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/lib/jasmine-2.8.0/boot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/lib/jasmine-2.8.0/console.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/lib/jasmine-2.8.0/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/lib/jasmine-2.8.0/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/lib/jasmine-2.8.0/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/spec/PlayerSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/spec/SpecHelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/spec/storageSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/src/Player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/src/Song.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jasmine-standalone-2.8.0/src/storage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/toDoList.js" />
+    <list default="true" id="2a978be4-14cc-4093-a694-498caf0cc417" name="Default" comment="first real commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -226,21 +204,30 @@
       <workItem from="1509640505272" duration="147000" />
       <workItem from="1509677873890" duration="10297000" />
       <workItem from="1509918299463" duration="97000" />
-      <workItem from="1510071441172" duration="2843000" />
+      <workItem from="1510071441172" duration="3060000" />
     </task>
+    <task id="LOCAL-00001" summary="first real commit">
+      <created>1510075294163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510075294163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19922000" />
+    <option name="totallyTimeSpent" value="20139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -259,6 +246,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first real commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first real commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -486,6 +477,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
           <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
