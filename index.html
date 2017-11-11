@@ -6,36 +6,44 @@
     <link rel="stylesheet" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="toDoList.js"></script>
+    <div id="jsThing"></div>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body>
+
+
 <div class="wrapper">
     <div class="nav">
         <div class="nav-left">
             <div class="nav-items">
                 <img src="todolistlogo.png" height="90" width="auto"/>
             </div>
+            <div class="get It done">GET IT DONE</div>
         </div>
         <div class="nav-right">
-        <div class="nav-items">
-            Sign Up
-        </div>
-        <div class="nav-items">
-            Sign In
-        </div>
+        <!--<div class="nav-items">-->
+            <!--Sign Up-->
+        <!--</div>-->
+        <!--<div class="nav-items">-->
+            <!--Sign In-->
+        <!--</div>-->
         </div>
 
     </div>
+
     <div class="bottom-sec">
         <div class="list">
-            <form>
+            <form class="form-thing">
                 <input type="text" id="addinput">
-               <div id="add-div" class="add-div" onclick="addItem()">button</div>
+               <div id="add-div" class="add-div" onclick="addItem()"></div>
             </form>
             <div class="todocontainer"></div>
 
         </div>
-        <div class="notes-sec">
-            <ul contenteditable="true"></ul>
+        <div id="notes-sec">
+            <div id="adder"></div>
+            <div id="completebox"></div>
+
         </div>
     </div>
 </div>
